@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			lavakuma Welcome Page
+			this is lavakuma Welcome Page
 		</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
