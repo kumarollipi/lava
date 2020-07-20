@@ -2,6 +2,7 @@
 <%@ page import="java.sql.*" %>
 
 
+
 <%
 String n=request.getParameter("val");
 String branch=request.getParameter("branch");
@@ -28,3 +29,4 @@ con.close();
 }catch(Exception e){e.printStackTrace();}
 }//end of if
 %>
+
