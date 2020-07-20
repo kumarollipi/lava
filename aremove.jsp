@@ -16,3 +16,5 @@ request.setAttribute("msg","Record Has been Successfully Deleted");
 }//end of if
 %>
 <jsp:forward page="ahome.jsp"></jsp:forward>
+
+
